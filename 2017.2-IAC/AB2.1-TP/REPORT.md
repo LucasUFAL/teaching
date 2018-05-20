@@ -17,7 +17,7 @@
 	
 # Resultados
 
-![Gráfico de resultados de teste](https://github.com/LucasUFAL/teaching/blob/master/2017.2-IAC/AB2.1-TP/grafico.png)
+![Alt Text](https://github.com/LucasUFAL/teaching/blob/master/2017.2-IAC/AB2.1-TP/grafico.png)
 
 # Discussão
 
