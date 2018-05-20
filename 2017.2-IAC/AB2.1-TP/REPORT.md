@@ -1,6 +1,6 @@
 # Identificação
 
-* Página do repositório do trabalho ([link GitHub](TODO)) 
+* Página do repositório do trabalho ([link GitHub](https://github.com/LucasUFAL/Trabalho-Pr-tico-IC-2017.2.git)) 
 
 * Discente 1
 	* Nome: Lucas Alves de Barros
