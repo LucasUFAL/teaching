@@ -17,8 +17,7 @@
 	
 # Resultados
 
-
-
+![Gráfico de resultados de teste](https://github.com/LucasUFAL/teaching/blob/master/2017.2-IAC/AB2.1-TP/grafico.png)
 
 # Discussão
 
@@ -29,5 +28,5 @@ A principal dificuldade foi encontrar uma função para monitorar a utilização
 
 ## Utilização intensa da UCP e memória
 
-Com relação ao teste de  UCP-MEM, o programa utilizou também entre 90-100% do processamento, porém o consumo de memória aumentou gradativamente nos primeiros 5 segundos e em seguida causou um travamento na maquina. O resultado esperado era que o processo fosse morto automaticamente após alguns segundos de travamento, mas isso não aconteceu, uma vez que o programa estava utilizando praticamente todos os recursos do computador e sua morte dependeria do início de outro processo responsável, como esse processo não teve recurso para ser iniciado, aconteceu o travamento da máquina, o que levou à necessidade de reiniciar.
+Com relação ao teste de  UCP-MEM, o programa utilizou também entre 90-100% do processamento, porém o consumo de memória aumentou gradativamente nos primeiros 5 segundos e em seguida causou um travamento na maquina. O resultado esperado era que o processo fosse morto automaticamente após alguns segundos de travamento, mas isso não aconteceu, uma vez que o programa estava utilizando praticamente todos os recursos do computador e sua morte dependeria do início de outro processo responsável, como esse processo não teve recurso para ser iniciado, aconteceu o travamento da máquina, o que levou à necessidade de reiniciar. Além de parar todo o sistema, foi possível notar que todos os demais processos começaram a ficar sem memória e por esse motivo foram parando, até atingir um ponto que não foi mais possível executar nada, pois a memória se encontrava lotada.
 Em um exemplo de programa postado nos comentários dessa atividades, percebemos a presença da função “popen”, pesquisamos sobre a mesma e verificamos que ela pode executar comando “no terminal” sem que o usuário veja, porém tentamos executar o código e não obtivemos resultado, assim, resolvemos fazer todo o prcesso através da função “system”, e já mostrar na tela todo o processo printado a cada segundo decorrido.
