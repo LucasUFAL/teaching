@@ -3,17 +3,17 @@
 * Página do repositório do trabalho ([link GitHub](TODO)) 
 
 * Discente 1
-	* Nome: TODO
-	* Matrícula: TODO 
-	* Distribuição da nota (%): TODO
+	* Nome: Lucas Alves de Barros
+	* Matrícula: 16110949
+	* Distribuição da nota (%): ___
 * Discente 2
-	* Nome: TODO
-	* Matrícula: TODO
-	* Distribuição da nota (%): TODO
+	* Nome: Dayvisson Nelson Mendes
+	* Matrícula: 16110744
+	* Distribuição da nota (%): ___
 * Discente 3
-	* Nome: TODO
-	* Matrícula: TODO
-	* Distribuição da nota (%): TODO		
+	* Nome: Jefersson Ricardo
+	* Matrícula: 17210973
+	* Distribuição da nota (%): ___		
 	
 # Resultados
 
@@ -28,7 +28,7 @@
 
 ## Utilização intensa da UCP
 
-TODO: explicar se o comportamento da curva **UCP** foi o esperado, sempre justificando sua resposta, referenciando o código fonte do programa e o gráfico do experimento realizado.
+
 
 ## Utilização intensa da UCP e memória
 
